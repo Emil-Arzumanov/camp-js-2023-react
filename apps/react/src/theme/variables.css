@@ -1,0 +1,18 @@
+:root {
+	/* Spaces */
+	--space-l: calc(var(--space-m) * 2);
+	--space-m: 16px;
+	--space-s: calc(var(--space-m) / 2);
+	--app-header-height: 64px;
+	--card-gap: 10px;
+
+	/* Sizes */
+	--card-avatar-width: 80px;
+	--card-avatar-height: 80px;
+
+	/* Colors */
+	--on-surface: hsl(0deg 0% 0% / 16%);
+	--typography-color: hsl(0deg 0% 0% / 100%);
+	--background-color: #eaf9ff;
+	--sort-title: #808080;
+}
