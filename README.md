@@ -1,6 +1,6 @@
-# saritasa-frontend-boilerplate-camp
+# 2023 Internship
 
-Monorepo with Angular, React, Vanilla TS boilerplates for JS camp. Created with [Nx](https://nx.dev/). Update project name and description, when you start working on your own project.
+Monorepo with React team project from 2023 summer internship. Created with Nx.
 
 ## Installation
 
@@ -46,9 +46,7 @@ Workspace consists of applications and libraries. A lib contains the actual logi
 
 ### Applications
 
-- [Vanilla](apps/vanilla/README.md)
 - [React](apps/react/README.md)
-- [Angular](apps/angular/README.md)
 
 ### Libraries
 
